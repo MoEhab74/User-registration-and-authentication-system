@@ -1,0 +1,14 @@
+C:\Users\bodae\source\repos\CAT_task\CAT_task\bin\Debug\net9.0\CAT_task.exe
+C:\Users\bodae\source\repos\CAT_task\CAT_task\bin\Debug\net9.0\CAT_task.deps.json
+C:\Users\bodae\source\repos\CAT_task\CAT_task\bin\Debug\net9.0\CAT_task.runtimeconfig.json
+C:\Users\bodae\source\repos\CAT_task\CAT_task\bin\Debug\net9.0\CAT_task.dll
+C:\Users\bodae\source\repos\CAT_task\CAT_task\bin\Debug\net9.0\CAT_task.pdb
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\CAT_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\CAT_task.AssemblyInfoInputs.cache
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\CAT_task.AssemblyInfo.cs
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\CAT_task.csproj.CoreCompileInputs.cache
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\CAT_task.dll
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\refint\CAT_task.dll
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\CAT_task.pdb
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\CAT_task.genruntimeconfig.cache
+C:\Users\bodae\source\repos\CAT_task\CAT_task\obj\Debug\net9.0\ref\CAT_task.dll
